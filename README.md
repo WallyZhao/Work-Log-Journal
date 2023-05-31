@@ -10,6 +10,8 @@ Repo to keep track of work for end of year ISU
 
 ## Technology used: 
 * Pygame (most likely), will add more if needed.
+* RPG Map Editor 2 
+* Piskel?
 
 
 

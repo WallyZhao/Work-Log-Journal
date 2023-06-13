@@ -4,4 +4,4 @@
 #### Sprite Sources:
 * [Skeleton PNG](https://www.deviantart.com/pixelknyght/art/Pixel-Skeleton-76642660) 
 * [Knight PNG](https://www.pngfind.com/mpng/hTThJJw_shovel-knight-pixel-art-knight-technology-line-pixel/) 
- 
+* [Player PNG](http://pixelartmaker.com/art/04ef5c534896fcf) 
